@@ -25,7 +25,7 @@ public class Bot extends ListenerAdapter {
 	
 	public static void main(String[] args) throws LoginException, InterruptedException{
 		
-		JDA jda = JDABuilder.createDefault("OTE2MDM4MTYxNzE5NzYzMDM1.G6xAH-._C9_DbyGQLXA3leUcXz3MqoaC7cUDGeHR4xuV8")
+		JDA jda = JDABuilder.createDefault("enterdiscordtokenhere")
 
 				.enableIntents(GatewayIntent.GUILD_MESSAGES, GatewayIntent.DIRECT_MESSAGES, GatewayIntent.MESSAGE_CONTENT)
 				.addEventListeners(new Bot())
