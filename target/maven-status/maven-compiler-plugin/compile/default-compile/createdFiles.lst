@@ -1,0 +1,10 @@
+javaQuotorDiscordBot\ChannelManager.class
+javaQuotorDiscordBot\WebScraper.class
+javaQuotorDiscordBot\Bot.class
+javaQuotorDiscordBot\QuoteContent.class
+javaQuotorDiscordBot\QuoteManager$StoredQuote.class
+events\interactionEventListener.class
+javaQuotorDiscordBot\EnvSetupHelper.class
+javaQuotorDiscordBot\QuoteManager.class
+javaQuotorDiscordBot\ConfigManager.class
+javaQuotorDiscordBot\QuoteService.class
